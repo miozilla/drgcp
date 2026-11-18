@@ -22,3 +22,5 @@ Restore a Compute Engine instance to an alternate project.
 
 ## Recover VMs with Google Backup & DR Service 
 ...ci/cd in progress...
+
+![drgcp000.png](./media/drgcp000.png)
