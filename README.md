@@ -1,5 +1,5 @@
 # drgcp ☔🚒
-drgcp : | Business Continuity (BD) & Disaster Recovery (DR) | Google Backup, DR Service, VMs, Restore, RTP, RPO, MTTR, MTBF, Failover, Swing Test, Cold Site |
+drgcp : | Business Continuity (BC) & Disaster Recovery (DR) | Google Backup, DR Service, VMs, Restore, RTP, RPO, MTTR, MTBF, Failover, Swing Test, Cold Site |
 
 
 ## Objectives
